@@ -1,16 +1,16 @@
-# 🦟 Dengue Data Analysis Dashboard
+# Dengue Data Analysis Dashboard
 
 An Excel-based interactive dashboard to analyze dengue patient data using **Power Query**, **pivot charts**, and **data visualization** techniques.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](Dengue_Data_Analysis_Dashboard.png)
 
 ---
 
-## 📁 Project Content
+## Project Content
 
 | File | Description |
 |------|-------------|
@@ -20,7 +20,7 @@ An Excel-based interactive dashboard to analyze dengue patient data using **Powe
 
 ---
 
-## 🔍 Key Highlights
+## Key Highlights
 
 - **Patients Analyzed:** 1,000  
 - **Areas Covered:** 36  
@@ -32,7 +32,7 @@ An Excel-based interactive dashboard to analyze dengue patient data using **Powe
 
 ---
 
-## 📊 Insights & Storytelling
+## Insights & Storytelling
 
 - Dengue cases are **evenly split across genders**, suggesting no strong gender-based vulnerability.
 - The **28–37 age group** is the most affected, followed closely by 18–27 and 48–57 — indicating **working-age adults are at higher risk**, possibly due to greater exposure during commuting or outdoor activities.
@@ -42,7 +42,7 @@ An Excel-based interactive dashboard to analyze dengue patient data using **Powe
 
 ---
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 
 - **Excel Power Query** for data import and cleaning  
 - **Pivot Tables & Pivot Charts** for dynamic insights  
@@ -51,7 +51,7 @@ An Excel-based interactive dashboard to analyze dengue patient data using **Powe
 
 ---
 
-## 📌 How to Explore
+## How to Explore
 
 1. Open `Dengue_Dataset_Report.xlsx` in Excel.
 2. Use the slicer (top-right) to filter by positive/negative dengue results.
@@ -60,4 +60,4 @@ An Excel-based interactive dashboard to analyze dengue patient data using **Powe
 
 ---
 
-### 👩‍💻 Built by SadiaHossain21
+### Built by SadiaHossain21
