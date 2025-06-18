@@ -6,7 +6,9 @@ An Excel-based interactive dashboard to analyze dengue patient data using **Powe
 
 ## Dashboard Preview
 
-Excel Dashboard/Dengue_Data_Analysis_Dashboard/Dengue_Data_Analysis_Dashboard.png
+## Dashboard Preview
+
+![Dashboard Preview](Dengue_Data_Analysis_Dashboard.png)
 
 ---
 
