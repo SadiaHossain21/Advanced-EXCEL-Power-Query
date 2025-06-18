@@ -1,16 +1,16 @@
-# Dengue Data Analysis Dashboard
+# 🦟 Dengue Data Analysis Dashboard
 
 An Excel-based interactive dashboard to analyze dengue patient data using **Power Query**, **pivot charts**, and **data visualization** techniques.
 
 ---
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Dashboard Preview](Dengue_Data_Analysis_Dashboard.png)
 
 ---
 
-## Project Content
+## 📁 Project Content
 
 | File | Description |
 |------|-------------|
@@ -20,19 +20,29 @@ An Excel-based interactive dashboard to analyze dengue patient data using **Powe
 
 ---
 
-## Key Highlights
+## 🔍 Key Highlights
 
--  **Patients Analyzed:** 1000  
--  **Areas Covered:** 36  
--  **Confirmed Dengue Cases:** 533 
--  **Average Age:** 35.92 years  
--  **Gender Split:** 52% Female, 48% Male  
--  **Top Affected Areas:** Sutrapur, Ramna, New Market, Keraniganj, Banasree  
--  **Age Group Analysis** shows highest cases in 28–37 age range  
+- **Patients Analyzed:** 1,000  
+- **Areas Covered:** 36  
+- **Confirmed Dengue Cases:** 533  
+- **Average Age:** 35.92 years  
+- **Gender Split:** 52% Female, 48% Male  
+- **Top Affected Areas:** Sutrapur, Ramna, New Market, Keraniganj, Banasree  
+- **Most Affected Age Group:** 28–37 years  
 
 ---
 
-## Tools & Techniques Used
+## 📊 Insights & Storytelling
+
+- Dengue cases are **evenly split across genders**, suggesting no strong gender-based vulnerability.
+- The **28–37 age group** is the most affected, followed closely by 18–27 and 48–57 — indicating **working-age adults are at higher risk**, possibly due to greater exposure during commuting or outdoor activities.
+- The **top two hotspots**, Sutrapur and Ramna, should be prioritized for **mosquito control** and **awareness campaigns**.
+- With an **average patient age of 35.92**, the trend skews toward adults more than children or the elderly.
+- The dashboard provides actionable insights to support **targeted public health interventions**.
+
+---
+
+## 🛠 Tools & Techniques Used
 
 - **Excel Power Query** for data import and cleaning  
 - **Pivot Tables & Pivot Charts** for dynamic insights  
@@ -41,7 +51,7 @@ An Excel-based interactive dashboard to analyze dengue patient data using **Powe
 
 ---
 
-## How to Explore
+## 📌 How to Explore
 
 1. Open `Dengue_Dataset_Report.xlsx` in Excel.
 2. Use the slicer (top-right) to filter by positive/negative dengue results.
@@ -50,4 +60,4 @@ An Excel-based interactive dashboard to analyze dengue patient data using **Powe
 
 ---
 
-### Built by SadiaHossain21 
+### 👩‍💻 Built by SadiaHossain21
