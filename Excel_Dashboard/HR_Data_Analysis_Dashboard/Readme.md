@@ -6,7 +6,7 @@ An Excel-based interactive dashboard for analyzing employee attrition using **Po
 
 ## Dashboard Preview
 
-![Dashboard Preview](HR_Data_Analysis_Dashbaord.png)
+![Dashboard Preview](HR_Data_Analysis_Dashboard.png)
 
 ---
 
